@@ -37,6 +37,10 @@ How to setup repo on computer files
 - Choose Branch and Origin
 - The file is now on GitHub
 
+4) Remove file
+- Delete file on IDE
+- Commit & Push
+
 
 
 
