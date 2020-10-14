@@ -18,8 +18,13 @@ How to setup repo on computer files
 #Push files
 
 
-#Sync files
-4) Add code to Github
+#Sync files to mobile/tablet devices
+1) Merge code from GitHub to device
+- Click Pull and chose Branch and Origin
+- Code will now come from Git to device
+
+
+2) Add code to Github
 - Once you have finished coding, click Commit All
 - Add details to Commit and click on Push
 - Choose Branch and Origin
