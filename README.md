@@ -35,7 +35,6 @@ How to setup repo on computer files
 - Once you have finished coding the new file, click Commit All
 - Add details to Commit and click on Push
 - Choose Branch and Origin
-- The click Push again and push the file
 - The file is now on GitHub
 
 
