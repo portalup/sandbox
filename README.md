@@ -19,7 +19,11 @@ How to setup repo on computer files
 
 
 #Sync files
-
+4) Add code to Github
+- Once you have finished coding, click Commit All
+- Add details to Commit and click on Push
+- Choose Branch and Origin
+- Code is now on GitHub
 
 
 
