@@ -61,9 +61,18 @@ Git Notes
 - Commit & Push
 
 
+#################################################################
 
 
+#Setup code to GitPod
+1) Create Repo and connect to GitPod
+2) Setup basic walkthrough in GitPod
 
+#Update file on Github
+In terminal >git status
+Enter in the command line >git add .
+Enter in the command line >git commit -m"details"
+Enter in the command line >git push
 
 
 
