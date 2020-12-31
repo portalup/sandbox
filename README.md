@@ -64,6 +64,24 @@ Git Notes
 
 #################################################################
 
+#Open Source
+1) Find & Fork project
+2) Copy URL of project ang open up IDE
+3) In terminal >git clone [REPO-URL]
+  - Will clone Repo to local device
+4) Update code
+  - Enter in the command line >git add .
+  - Enter in the command line >git commit -m "details"
+  - Enter in the command line >git push origin [BRANCH]
+5) Request Pull Request
+  - Click "New Pull Request"
+  - Click "Compare across forks" to compare changes
+6) Click "Create Pull Request"
+  - Add request details
+
+
+#################################################################
+
 #Setup code to GitPod
 1) Create Repo and connect to GitPod
 2) Setup basic walkthrough in GitPod
