@@ -19,6 +19,7 @@ Git Notes
 - Enter in the command line >git add .
 - Enter in the command line >git commit -m"details"
 - Enter in the command line >git push origin master
+  -master may change based on branch, sometimes "main"
 
 #Pull code on Git with PC - First time
 1) In terminal >git clone [REPO-URL]
@@ -63,17 +64,27 @@ Git Notes
 
 #################################################################
 
-
 #Setup code to GitPod
 1) Create Repo and connect to GitPod
 2) Setup basic walkthrough in GitPod
 
 #Update file on Github
-In terminal >git status
-Enter in the command line >git add .
-Enter in the command line >git commit -m"details"
-Enter in the command line >git push
+1) In terminal >git status
+- Enter in the command line >git add .
+- Enter in the command line >git commit -m"details"
+- Enter in the command line >git push
 
 
+#################################################################
 
+#SSH
+1) Create SSH in PC if permission error appears
+- Enter in the command line >ssh-keygen
+- You may need to remove previous one in Drive
+2) Enter in passcode
+3) Find id-rsa file in Drive & copy ssh-key
+4) Add key to GitHub SSH settings
+
+
+#################################################################
 #Details of the project and todo notes
